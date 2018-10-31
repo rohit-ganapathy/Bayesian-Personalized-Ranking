@@ -6,7 +6,7 @@ This implementation is based on the following paper :
 Rendle, Steffen, et al. "BPR: Bayesian personalized ranking from implicit feedback." Proceedings of the twenty-fifth conference on uncertainty in artificial intelligence. AUAI Press, 2009.
 https://arxiv.org/pdf/1205.2618
 
-## Getting Started
+### Getting Started
  * create BPR object
  * classs method train() to begin training  
  * class method evaluate() to evaluate model for a particular (user, item_i, item_j) triplet
